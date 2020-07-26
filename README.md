@@ -8,4 +8,4 @@ The Lab Assignments above are part of Scripting for Data Analysis course at Syra
 4. Frame real world data questions and show how they can be answered with data.
 
 ## Tools and Concepts
-Python, Web Services & API, Data Wrangling, Data Visualization, Descriptive Statistics
+Python(Numpy, Pandas, Matplolib, Seaborn, Scipy), Web Services & API, Data Wrangling, Data Visualization, Descriptive Statistics, Data Structures
