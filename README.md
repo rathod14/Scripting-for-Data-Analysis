@@ -1,4 +1,4 @@
-# IST 652 - Scripting for Data Analyst Lab Assignments
+# IST 652 - Scripting for Data Analysis Lab Assignments
 The Lab Assignments above are part of Scripting for Data Analysis course at Syracuse University by Prof.Hernado Hoyos
 
 ## Key Learnings
